@@ -1,0 +1,9 @@
+{
+  "grammarly.files.include": [
+    "**/*.md"
+  ],
+  "grammarly.config.documentDialect": "american",
+  "grammarly.config.documentDomain": "business",
+  "rewrap.autoWrap.enabled": true,
+  "rewrap.wrappingColumn": 100,
+}
